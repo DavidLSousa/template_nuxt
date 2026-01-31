@@ -1,0 +1,38 @@
+{
+  "name": "onepanel-console-nuxt",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "typecheck": "nuxi typecheck"
+  },
+  "dependencies": {
+    "@nuxtjs/color-mode": "^4.0.0",
+    "@nuxtjs/i18n": "^10.2.1",
+    "@nuxtjs/tailwindcss": "6.14.0",
+    "@pinia/nuxt": "0.11.3",
+    "@primeuix/themes": "^2.0.3",
+    "@vee-validate/zod": "^4.15.1",
+    "nuxt": "^4.2.2",
+    "pinia": "^3.0.4",
+    "primeicons": "^7.0.0",
+    "primevue": "^4.5.4",
+    "vee-validate": "^4.15.1",
+    "vue": "^3.5.27",
+    "vue-router": "^4.6.4",
+    "zod": "^3.25.76"
+  },
+  "packageManager": "pnpm@10.28.1+sha512.7d7dbbca9e99447b7c3bf7a73286afaaf6be99251eb9498baefa7d406892f67b879adb3a1d7e687fc4ccc1a388c7175fbaae567a26ab44d1067b54fcb0d6a316",
+  "devDependencies": {
+    "@nuxt/eslint": "^1.13.0",
+    "@primevue/nuxt-module": "^4.5.4",
+    "@types/node": "^25.1.0",
+    "typescript": "^5.9.3"
+  }
+}

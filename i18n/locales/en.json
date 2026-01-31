@@ -1,0 +1,47 @@
+{
+  "common": {
+    "appName": "OnePanel",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "loading": "Loading...",
+    "error": "Error loading data",
+    "success": "Operation completed successfully",
+    "noData": "No data found",
+    "confirm": "Confirm",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "page": "Page",
+    "of": "of",
+    "copyright": "© 2025 OnePanel. All rights reserved."
+  },
+  "auth": {
+    "login": "Sign In",
+    "logout": "Sign Out",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot password?",
+    "register": "Create account",
+    "loginTitle": "Access your account",
+    "registerTitle": "Create your account",
+    "passwordPlaceholder": "Password",
+    "emailPlaceholder": "your{'@'}email.com"
+  },
+  "validation": {
+    "required": "Required field",
+    "email": "Invalid email",
+    "minLength": "Minimum {min} characters",
+    "maxLength": "Maximum {max} characters"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "users": "Users",
+    "sales": "Sales",
+    "orders": "Orders",
+    "tickets": "Tickets",
+    "mainContent": "Main Content",
+    "description": "This is a base template following development standards. Check {code} for more details."
+  }
+}

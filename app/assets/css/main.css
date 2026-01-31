@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Slate palette - Light mode */
+    --color-primary: 51 65 85;
+    --color-surface: 248 250 252;
+    --color-surface-alt: 255 255 255;
+    --color-surface-hover: 241 245 249;
+    --color-border: 226 232 240;
+    --color-border-hover: 203 213 225;
+    --color-text: 15 23 42;
+    --color-text-muted: 100 116 139;
+  }
+
+  .dark {
+    /* Slate palette - Dark mode */
+    --color-primary: 203 213 225;
+    --color-surface: 15 23 42;
+    --color-surface-alt: 30 41 59;
+    --color-surface-hover: 51 65 85;
+    --color-border: 51 65 85;
+    --color-border-hover: 71 85 105;
+    --color-text: 248 250 252;
+    --color-text-muted: 148 163 184;
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "common": {
+    "appName": "OnePanel",
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "delete": "Excluir",
+    "edit": "Editar",
+    "loading": "Carregando...",
+    "error": "Erro ao carregar dados",
+    "success": "Operação realizada com sucesso",
+    "noData": "Nenhum dado encontrado",
+    "confirm": "Confirmar",
+    "back": "Voltar",
+    "next": "Próximo",
+    "previous": "Anterior",
+    "page": "Página",
+    "of": "de",
+    "copyright": "© 2025 OnePanel. Todos os direitos reservados."
+  },
+  "auth": {
+    "login": "Entrar",
+    "logout": "Sair",
+    "email": "E-mail",
+    "password": "Senha",
+    "forgotPassword": "Esqueceu a senha?",
+    "register": "Criar conta",
+    "loginTitle": "Acesse sua conta",
+    "registerTitle": "Crie sua conta",
+    "passwordPlaceholder": "s3nh{'@'}",
+    "emailPlaceholder": "seu{'@'}email.com"
+  },
+  "validation": {
+    "required": "Campo obrigatório",
+    "email": "E-mail inválido",
+    "minLength": "Mínimo {min} caracteres",
+    "maxLength": "Máximo {max} caracteres"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "users": "Usuários",
+    "sales": "Vendas",
+    "orders": "Pedidos",
+    "tickets": "Tickets",
+    "mainContent": "Conteúdo Principal",
+    "description": "Este é um template base seguindo os padrões de desenvolvimento. Consulte {code} para mais detalhes."
+  }
+}
