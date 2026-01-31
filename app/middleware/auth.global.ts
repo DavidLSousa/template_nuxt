@@ -3,7 +3,7 @@ export default defineNuxtRouteMiddleware((to) => {
   const publicRoutes = ['/login', '/register', '/forgot-password']
 
   if (publicRoutes.includes(to.path)) {
-    if (token.value) return navigateTo('/')
+    if (import.meta.client && token.value) return navigateTo('/')
     return
   }
 
