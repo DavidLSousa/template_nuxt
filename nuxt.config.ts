@@ -45,7 +45,7 @@ export default defineNuxtConfig({
 
   app: {
     head: {
-      titleTemplate: '%s | OnePanel',
+      titleTemplate: '%s | MyApp',
       meta: [
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
         { name: 'theme-color', content: '#0f172a' },
@@ -73,7 +73,7 @@ export default defineNuxtConfig({
     },
     // Público (exposto ao cliente) - apenas não-sensível
     public: {
-      appName: process.env.NUXT_PUBLIC_APP_NAME || 'OnePanel',
+      appName: process.env.NUXT_PUBLIC_APP_NAME || 'MyApp',
     },
   },
   future: { compatibilityVersion: 4 },

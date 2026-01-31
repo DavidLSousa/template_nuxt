@@ -1,4 +1,4 @@
-# OnePanel - Nuxt 4
+# MyApp - Nuxt 4
 
 Template base de projeto Nuxt 4 seguindo os padrões de desenvolvimento estabelecidos.
 
@@ -17,7 +17,7 @@ Template base de projeto Nuxt 4 seguindo os padrões de desenvolvimento estabele
 ## Estrutura do Projeto
 
 ```
-onepanel-console-nuxt/
+MyApp-console-nuxt/
 ├── app/
 │   ├── assets/css/          # CSS global e variáveis
 │   ├── components/          # Componentes Vue

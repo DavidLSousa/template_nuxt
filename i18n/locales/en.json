@@ -1,6 +1,6 @@
 {
   "common": {
-    "appName": "OnePanel",
+    "appName": "MyApp",
     "save": "Save",
     "cancel": "Cancel",
     "delete": "Delete",
@@ -15,7 +15,7 @@
     "previous": "Previous",
     "page": "Page",
     "of": "of",
-    "copyright": "© 2025 OnePanel. All rights reserved."
+    "copyright": "© 2025 MyApp. All rights reserved."
   },
   "auth": {
     "login": "Sign In",
